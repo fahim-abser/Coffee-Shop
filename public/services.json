@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Black Coffee",
+        "price": "100",
+        "img": "https://i.ibb.co/cxv2S25/download.jpg",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "name": "Cold Coffee",
+        "price": "200",
+        "img": "https://i.ibb.co/z5zsZGy/download-1.jpg",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "name": "Regular Coffee",
+        "price": "250",
+        "img": "https://i.ibb.co/nPzqcFG/download-3.jpg",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "name": "Instant Coffee",
+        "price": "150",
+        "img": "https://i.ibb.co/GTFXNDr/download-2.jpg",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "name": "Arabica Coffee",
+        "price": "220",
+        "img": "https://i.ibb.co/z6bWpPx/download-4.jpg",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "name": "Robusta Coffee",
+        "price": "170",
+        "img": "https://i.ibb.co/3mDm2rG/download-5.jpg",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+]
